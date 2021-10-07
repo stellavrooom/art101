@@ -1,0 +1,20 @@
+h1 {
+  color: pink;
+  font-size: 300%;
+}
+
+p  {
+  font-family: fantasy;
+  text-indent: 35px;
+  margin indent: 10px;
+}
+
+#content {
+  background-color: #ffb6c1;
+  width: 300px;
+  min-height: 300px;
+  padding: 8px;
+  margin: 8px;
+  border: solid 3px #FF0D86;
+  font-size: 30px;
+}

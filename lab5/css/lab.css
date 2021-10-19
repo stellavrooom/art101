@@ -1,0 +1,38 @@
+h1 {
+    color: lime;
+    font-size: 200%;
+    font-family: monospace
+}
+
+h2 {color: lime;
+font-size: 200%;
+font-family: monospace
+}
+
+h3 {color: lime;
+font-size: 200%;
+font-family: monospace
+}
+
+p {color: green;
+  font-size: 100%;
+  font-family: monospace
+}
+
+ol {
+    font-family: monospace;
+    text-indent: 35px;
+    margin indent: 10px
+}
+
+#content {
+    background-color: #ffb6cl;
+    width: 1000px;
+    min-height: 1000px;
+    padding: 8px;
+    margin: 8px;
+    border: solid 1px #FF0D86;
+    font-size: 30px;
+
+
+  

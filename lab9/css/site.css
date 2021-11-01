@@ -1,0 +1,44 @@
+h1 {
+    color: Brown;
+    font-size: 400%;
+    font-family: serif;
+    border: solid 1px #FF0D86;
+    border-style: dashed;
+
+}
+
+h2 {color: magenta;
+font-size: 250%;
+font-family: serif;
+text-indent: 35px;
+margin indent: 10px
+
+}
+
+h3 {color: Brown;
+  font-size: 200%;
+  font-family: serif;
+  text-indent: 35px;
+  margin indent: 10px;
+  border: solid 1px #FF0D86;
+  border-style: dashed;
+}
+
+
+p {color: pink;
+font-size: 150%;
+font-family: serif;
+text-indent: 35px;
+margin indent: 10px;
+border: solid 1px #FF0D86;
+border-style: dashed;
+}
+
+#content {
+    background-color: #ffb6cl;
+    width: 800px;
+    min-height: 800px;
+    padding: 8px;
+    margin: 8px;
+    font-size: 30px;
+  }

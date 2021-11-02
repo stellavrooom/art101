@@ -15,9 +15,9 @@
   var name = field.value;
 
   // Use this input to change the text from
-  // ‘Hello Everyone!!’ to ‘Hello’ + the user’s name
+  // ‘Hello Everyone!!’ to ‘What's Up’ + the user’s name
   var headingEl = document.getElementById("title");
-  headingEl.innerHTML = "Hello, " + name;
+  headingEl.innerHTML = "What's Up, " + name;
 }
 
 // Create an event handler within the JS file that listens for a button click.

@@ -1,8 +1,8 @@
 h1 {
     color: magenta;
-    font-size: 300%;
+    font-size: 350%;
     font-family: monospace;
-    
+
 }
 
 h2 {color: Brown;
@@ -13,16 +13,18 @@ margin indent: 1px
 
 }
 
-h3 {color: Brown;
+h3 {color: pink;
   font-size: 200%;
   font-family: monospace;
-  text-indent: 35px;
+  text-indent: 1px;
   margin indent: 10px;
+  border: 1px; #FF0D86;
+  border-style: dashed;
 
 }
 
 
-p {color: brown;
+p {color: Brown;
 font-size: 150%;
 font-family: monospace;
 text-indent: 1px;
